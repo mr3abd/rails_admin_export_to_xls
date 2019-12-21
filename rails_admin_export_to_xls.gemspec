@@ -9,9 +9,8 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminExportToXls::VERSION
   s.authors     = ["Luu Tuan Hai"]
   s.email       = ["hai.luut@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminExportToXls."
-  s.description = "TODO: Description of RailsAdminExportToXls."
+  s.summary     = "Summary of RailsAdminExportToXls."
+  s.description = "Description of RailsAdminExportToXls."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
